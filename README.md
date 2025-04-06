@@ -125,6 +125,4 @@ UrbanFlowCast/
 
 ## 联系方式
 
-项目作者：您的名字 - your.email@example.com
-
-项目链接：[https://github.com/yourusername/UrbanFlowCast](https://github.com/yourusername/UrbanFlowCast)
+项目作者：xdis - 1002860741@qq.com
