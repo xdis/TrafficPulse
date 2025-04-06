@@ -1,0 +1,13 @@
+# 忽略大数据文件
+new_gy_contest_traveltime_training_data_second.txt
+
+# 忽略整个数据目录
+/data/
+
+# 但保留data目录结构（可选）
+!/data/.gitkeep
+
+# 忽略模型和结果文件（可选，如果这些也很大）
+/model/*.pkl
+/model/*.model
+/submission/*.txt
